@@ -397,6 +397,9 @@ Arch: x86_64
 Hello, Docker!
 Sum 1..10 = 55
 ```
+<img width="951" height="118" alt="изображение" src="https://github.com/user-attachments/assets/66028bae-2204-45f6-9c65-d569cdcf7261" />
+
+
 Удалить образ
 ```shell
 docker rmi ghcr.io/rurewa/hello-rust:latest
